@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vineet_Bhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineet-bhardwaj-a13151356/)](https://www.linkedin.com/in/vineet-bhardwaj-a13151356/) [![Gmail Badge](https://img.shields.io/badge/-bhardwajnirmala48@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhardwajvineet353@gmail.com)](mailto:bhardwajvineet353@gmail.com)
 
 
-# :tools: Tech Stack:
+# 🛠 Tech Stack:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
